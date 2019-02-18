@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <asp:Button ID="Button1" runat="server" Text="Login" Width="76px" />
         <asp:Button ID="Button2" runat="server" Text="Logout" Width="76px" />
+        <asp:Button ID="Button3" runat="server" Text="Reset" />
         <div>
         </div>
     </form>
